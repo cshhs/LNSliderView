@@ -19,7 +19,7 @@
 		6C70113C1D050F82008156F8 /* LNSliderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C70113A1D050F82008156F8 /* LNSliderView.m */; };
 		6C7011441D05701E008156F8 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C7011421D05701E008156F8 /* TestViewController.m */; };
 		6C7011451D05701E008156F8 /* TestViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6C7011431D05701E008156F8 /* TestViewController.xib */; };
-		6C7011491D057E65008156F8 /* test.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6C7011481D057E65008156F8 /* test.gif */; };
+		6C70114B1D058278008156F8 /* test.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6C70114A1D058278008156F8 /* test.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,7 +63,7 @@
 		6C7011411D05701E008156F8 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
 		6C7011421D05701E008156F8 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 		6C7011431D05701E008156F8 /* TestViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TestViewController.xib; sourceTree = "<group>"; };
-		6C7011481D057E65008156F8 /* test.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = test.gif; sourceTree = "<group>"; };
+		6C70114A1D058278008156F8 /* test.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = test.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,7 +94,6 @@
 		6C7010F71D050E9C008156F8 = {
 			isa = PBXGroup;
 			children = (
-				6C7011481D057E65008156F8 /* test.gif */,
 				6C7011021D050E9C008156F8 /* LNSliderView */,
 				6C70111C1D050E9D008156F8 /* LNSliderViewTests */,
 				6C7011271D050E9D008156F8 /* LNSliderViewUITests */,
@@ -115,6 +114,7 @@
 		6C7011021D050E9C008156F8 /* LNSliderView */ = {
 			isa = PBXGroup;
 			children = (
+				6C70114A1D058278008156F8 /* test.gif */,
 				6C7011361D050F82008156F8 /* LNSlider */,
 				6C7011061D050E9C008156F8 /* AppDelegate.h */,
 				6C7011071D050E9D008156F8 /* AppDelegate.m */,
@@ -274,7 +274,7 @@
 			files = (
 				6C7011131D050E9D008156F8 /* LaunchScreen.storyboard in Resources */,
 				6C7011101D050E9D008156F8 /* Assets.xcassets in Resources */,
-				6C7011491D057E65008156F8 /* test.gif in Resources */,
+				6C70114B1D058278008156F8 /* test.gif in Resources */,
 				6C7011451D05701E008156F8 /* TestViewController.xib in Resources */,
 				6C70110E1D050E9D008156F8 /* Main.storyboard in Resources */,
 			);
