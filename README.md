@@ -7,5 +7,5 @@
 <br> 
 <br> 
 
-![](https://github.com/cshhs/LNSliderView/raw/master/test.gif) 
+![](https://github.com/cshhs/LNSliderView/raw/master/LNSlider/test.gif) 
 
